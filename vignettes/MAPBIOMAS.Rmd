@@ -18,6 +18,9 @@ knitr::opts_chunk$set(
 
 The MAPBIOMAS project gathers data reporting the type of land covering each year by area, that is, for example, the area used for a temporary crop of soybeans. It also reports the transition between coverings during given years.
 
+The cover levels inform the usage of the refered land. The levels range from the least to the most specific information about the land.
+Example: level_0: Anthropic | level_1: Farming | level_2: Agriculture | level_3: Temporary Crops
+
 The data available has an yearly frequency and is available starting from the year 1989.
 
 ## Usage
